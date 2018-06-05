@@ -1,0 +1,10 @@
+-----BEGIN PUBLIC KEY-----
+支付宝公钥： 用生成的应用公钥来获取
+-----END PUBLIC KEY-----
+
+
+
+
+-----BEGIN RSA PRIVATE KEY-----
+应用私钥
+-----END RSA PRIVATE KEY-----
